@@ -13,7 +13,7 @@ module.exports = {
         type: Sequelize.STRING
       },
       no_telp: {
-        type: Sequelize.INTEGER(12)
+        type: Sequelize.STRING(12)
       },
       alamat: {
         type: Sequelize.STRING
