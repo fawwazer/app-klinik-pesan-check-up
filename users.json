@@ -1,0 +1,23 @@
+ [
+    {
+      "id": 1,
+      "userName": "dr_ahmad_santoso",
+      "email": "ahmad.santoso@klinik.com",
+      "password": "$2b$10$abc123",
+      "role": true
+    },
+    {
+      "id": 2,
+      "userName": "siti_rahayu",
+      "email": "siti.rahayu@gmail.com",
+      "password": "$2b$10$def456",
+      "role": false
+    },
+    {
+      "id": 3,
+      "userName": "dr_dewi_kartika",
+      "email": "dewi.kartika@klinik.com",
+      "password": "$2b$10$ghi789",
+      "role": true
+    }
+  ]
