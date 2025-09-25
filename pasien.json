@@ -1,0 +1,18 @@
+ [
+    {
+      "id": 1,
+      "fullName": "ahmad_santoso",
+      "no_telp": "098273192",
+      "alamat": "test",
+      "medicHistory": "sakit",
+      "UserId":2
+    },
+    {
+      "id": 2,
+      "fullName": "santoso",
+      "no_telp": "09938931",
+      "alamat": "test",
+      "medicHistory": "sakit",
+      "UserId":3
+    }
+      ]

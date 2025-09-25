@@ -17,7 +17,7 @@ module.exports = (sequelize, DataTypes) => {
   }
   PasienProfile.init({
     fullName: DataTypes.STRING,
-    no_telp: DataTypes.INTEGER,
+    no_telp: DataTypes.STRING,
     alamat: DataTypes.STRING,
     medicHistory: DataTypes.STRING,
     UserId: DataTypes.INTEGER
